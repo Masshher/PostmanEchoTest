@@ -1,1 +1,1 @@
-# PostmanEcho[![Build status](https://ci.appveyor.com/api/projects/status/2cmiffk9ew6a7k1m?svg=true)](https://ci.appveyor.com/project/Masshher/postmanecho)
+[![Build status](https://ci.appveyor.com/api/projects/status/fpf29i4p643o7y98?svg=true)](https://ci.appveyor.com/project/Masshher/postmanechotest)
